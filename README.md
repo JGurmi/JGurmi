@@ -5,6 +5,7 @@
 - 😄 Pronouns: "Gurmi", "Pats"
 - ⚡ Hobbies: Play videogames, Play basketball,etc 
 - Schedule:
+- 
 | Hora  	| Lunes                 	| Martes                	| Miercoles             	| Jueves                	|
 |-------	|-----------------------	|-----------------------	|-----------------------	|-----------------------	|
 | 3-4pm 	| Lenguajes de Interfaz 	| Lenguajes de Interfaz 	| Lenguajes de Interfaz 	| Lenguajes de Interfaz 	|
