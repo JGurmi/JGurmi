@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently study in Instituto Tecnologico de Tijuana 
-- 🌱 I’m currently learning C# 
-- 🤔 I’m looking for help with some coding about JavaScript because i am interested
+- 🌱 I’m currently learning C#, 
+- 🤔 I’m interested about JavaScript, C#, C++.
 - 😄 Pronouns: "Gurmi", "Pats"
 - ⚡ Hobbies: Play videogames, Play basketball,etc 
 - Schedule:
